@@ -11,6 +11,8 @@ Gendar: Gay
 
 ## My skills
 [![My Skills](https://skillicons.dev/icons?i=css,html,cs,arduino,lua,py,js,bash)](https://skillicons.dev)
+
+
 I don't know HTML, CSS and Javascript, but since they're a part of Turbowarp so I added'em.
 
 ## Skills that I am learning
